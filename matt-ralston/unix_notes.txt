@@ -1,0 +1,8 @@
+cd <path> changes the working directory to <path>
+
+mkdir creates a new directory
+
+touch <filename> creates a new file
+
+ls <path> lists the directory content of <path>
+

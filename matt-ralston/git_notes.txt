@@ -1,0 +1,7 @@
+git checkout -b <NewBranch> Creates and checks out a new branch
+
+git add <file> Adds any changes inside <file> to the staging area
+
+git commit -m '<message>' Commits the staging area to the repository with a <message>
+
+git push origin <NewBranch> pushes the repository to Github
